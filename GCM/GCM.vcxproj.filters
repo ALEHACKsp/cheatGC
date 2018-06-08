@@ -20,12 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="QuestGameManager.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="KGCDropItem.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Cheats.h">
       <Filter>Header Files</Filter>
     </ClInclude>
